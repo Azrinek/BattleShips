@@ -183,14 +183,14 @@ namespace Project1
 
                 
 
-                return false; // Informacja o trafieniu
+                return false; // Miss
             }
             else
             {
                 opponent.OwnBoard.Grid[x, y] = Board.State.Miss;
                 OwnBoard.Grid2[x, y] = Board.State.Miss;
                 Console.WriteLine("Miss!");
-                return false; // Informacja o chybieniu
+                return false; // Hit
             }
         }
     }
