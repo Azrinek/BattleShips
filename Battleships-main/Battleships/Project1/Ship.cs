@@ -19,8 +19,6 @@ namespace Project1
                 {
                     if (shipParts[i,j] == 1)
                     {
-                        Console.WriteLine("ZNALAZLEM: "+i + " " + j);
-                        Console.ReadLine();
                         return false;
                     }
                 }
