@@ -1,7 +1,0 @@
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\bin\Debug\Project1.exe.config
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\bin\Debug\Project1.exe
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\bin\Debug\Project1.pdb
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\obj\Debug\Project1.exe
-C:\Users\lamor\Desktop\Tomek\Battleships\Project1\obj\Debug\Project1.pdb
