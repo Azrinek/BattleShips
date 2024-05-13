@@ -23,10 +23,18 @@ namespace Project1
         {
             player1.PlaceShips();
             player1.OwnBoard.DisplayBoard();
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("Press any key to change player...");
             Console.ReadLine();
             Console.Clear();
             player2.PlaceShips();
             player2.OwnBoard.DisplayBoard();
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadLine();
+            Console.Clear();
+            Console.WriteLine("Press any key to change player...");
             Console.ReadLine();
             Console.Clear();
             while (true)
@@ -59,7 +67,12 @@ namespace Project1
                     currentPlayer = player1;
                 }
                 currentPlayer = currentPlayer == player1 ? player2 : player1; // Update current player for the next turn
-                Console.ReadKey();
+                Console.WriteLine("Press any key to continue...");
+                Console.ReadLine();
+                Console.Clear();
+                Console.WriteLine("Press any key to change player...");
+                Console.ReadLine();
+                Console.Clear();
             }
         }
         

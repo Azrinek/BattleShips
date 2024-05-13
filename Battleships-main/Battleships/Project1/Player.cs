@@ -59,11 +59,11 @@ namespace Project1
         }
         public void PlaceShips()
         {
-            ships = new Ship[10];
+            ships = new Ship[2];
             OwnBoard = new Board();
             Console.WriteLine($"{Name}, place your ships on the board.");
 
-            int[] shipLengths = {4,3,3,2,2,2,1,1,1,1};
+            int[] shipLengths = {4,1};
             
             for (int i = 0; i < shipLengths.Length; i++)
             {
@@ -183,14 +183,14 @@ namespace Project1
 
                 
 
-                return false; // Miss
+                return false; // Informacja o trafieniu
             }
             else
             {
                 opponent.OwnBoard.Grid[x, y] = Board.State.Miss;
                 OwnBoard.Grid2[x, y] = Board.State.Miss;
                 Console.WriteLine("Miss!");
-                return false; // Hit
+                return false; // Informacja o chybieniu
             }
         }
     }

@@ -19,3 +19,17 @@ C:\Users\lamor\Desktop\Tomek\BattleShips-main\BattleShips-main\Battleships\Proje
 C:\Users\lamor\Desktop\Tomek\BattleShips-main\BattleShips-main\Battleships\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
 C:\Users\lamor\Desktop\Tomek\BattleShips-main\BattleShips-main\Battleships\Project1\obj\Debug\Project1.exe
 C:\Users\lamor\Desktop\Tomek\BattleShips-main\BattleShips-main\Battleships\Project1\obj\Debug\Project1.pdb
+C:\Users\lamor\Desktop\Battleships\Project1\bin\Debug\Project1.exe.config
+C:\Users\lamor\Desktop\Battleships\Project1\bin\Debug\Project1.exe
+C:\Users\lamor\Desktop\Battleships\Project1\bin\Debug\Project1.pdb
+C:\Users\lamor\Desktop\Battleships\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\lamor\Desktop\Battleships\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\lamor\Desktop\Battleships\Project1\obj\Debug\Project1.exe
+C:\Users\lamor\Desktop\Battleships\Project1\obj\Debug\Project1.pdb
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\bin\Debug\Project1.exe.config
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\bin\Debug\Project1.exe
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\bin\Debug\Project1.pdb
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\obj\Debug\Project1.exe
+C:\Users\TZere\OneDrive\Pulpit\Battleships (1)\Battleships\Project1\obj\Debug\Project1.pdb

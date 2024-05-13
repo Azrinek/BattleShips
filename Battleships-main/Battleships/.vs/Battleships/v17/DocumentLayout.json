@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lamor\\Desktop\\Battleships\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|c:\\users\\lamor\\desktop\\battleships\\project1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|solutionrelative:project1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|c:\\users\\lamor\\desktop\\battleships\\project1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|solutionrelative:project1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|C:\\Users\\lamor\\Desktop\\Battleships\\project1\\battleshipgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|solutionrelative:project1\\battleshipgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|C:\\Users\\lamor\\Desktop\\Battleships\\project1\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A831FF28-1FBA-491E-9FE7-62784D8D1FC5}|Project1\\Project1.csproj|solutionrelative:project1\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Board.cs",
+              "RelativeDocumentMoniker": "Project1\\Board.cs",
+              "ToolTip": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Board.cs",
+              "RelativeToolTip": "Project1\\Board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:50:23.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Ship.cs",
+              "RelativeDocumentMoniker": "Project1\\Ship.cs",
+              "ToolTip": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Ship.cs",
+              "RelativeToolTip": "Project1\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:31:28.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Player.cs",
+              "RelativeDocumentMoniker": "Project1\\Player.cs",
+              "ToolTip": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\Player.cs",
+              "RelativeToolTip": "Project1\\Player.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:51:06.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BattleshipGame.cs",
+              "DocumentMoniker": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\BattleshipGame.cs",
+              "RelativeDocumentMoniker": "Project1\\BattleshipGame.cs",
+              "ToolTip": "C:\\Users\\lamor\\Desktop\\Battleships\\Project1\\BattleshipGame.cs",
+              "RelativeToolTip": "Project1\\BattleshipGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:50:18.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
